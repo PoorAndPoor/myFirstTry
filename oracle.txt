@@ -1,3 +1,0 @@
-sqlplus system/orcl@192.168.40.10:1521/orcl
-
-D:\application\JavaEE\javaEEwork\instantclient_12_1
